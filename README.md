@@ -20,5 +20,10 @@ This repository contains a Power BI dashboard that analyzes mobile sales data ac
 - Clean UI and Insightful KPIs
 
 
+👤 **Author**
 
+**Siddharth Vaishnav**  
+🔗 [GitHub Profile](https://github.com/Siddharth0712)  
+🔗 [Linkedin Profile](https://www.linkedin.com/in/siddharth-vaishnav-592469366/)  
+📍 India
  
